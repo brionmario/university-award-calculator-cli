@@ -5,5 +5,5 @@ This system was designed and developed to be used as a final award calculating a
 
 <h4 align="center">The UI Looks like this on the CLI</h4>
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/25959096/23582771/f1fe1ac2-0157-11e7-8196-0b46f1ea7cc5.png" width="350"/>
+  <img src="https://cloud.githubusercontent.com/assets/25959096/23582771/f1fe1ac2-0157-11e7-8196-0b46f1ea7cc5.png" width="750"/>
 </p>
